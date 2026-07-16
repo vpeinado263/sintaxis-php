@@ -12,12 +12,13 @@ $turnoNoche = 20;
 // Operación matemática básica
 $promedio = ($turnoManana + $turnoTarde + $turnoNoche) / 3;
 
-//
+
 echo "<h4>Promedio de insumos utilizados por turno</h4>";
 
 echo "Turno Mañana: $turnoManana insumos <br>";
 echo "Turno Tarde: $turnoTarde insumos <br>";
 echo "Turno Noche: $turnoNoche insumos <br><br>";
+
 echo "<strong>RESULTADO: $promedio</strong>";
 
 
